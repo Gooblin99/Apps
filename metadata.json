@@ -1,0 +1,6 @@
+{
+  "name": "ANGKA BANDAR",
+  "description": "Aplikasi prediksi angka 2D (100 line: 25 lembar merah, hijau, kuning, biru transparan dengan pemisah *) dari result 4D, dilengkapi tombol copy per lembar, reset, dan kunci sandi pembuat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
